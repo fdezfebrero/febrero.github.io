@@ -1,6 +1,6 @@
 # main text of home
 name: Javier FFebrero
-bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato teño unha pedra
+bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato, teño unha pedra
 
 # twitter summary info
 description: A blog about technology
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: 
+# facebook: 
 twitter: fdezfebrero
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -47,7 +47,7 @@ github: fdezfebrero
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: 
+# medium: 
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: javiferfeb@gmail.com
@@ -55,16 +55,16 @@ email: javiferfeb@gmail.com
 authors:
   javier:
     name: Javier
-    bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato teño unha pedra
+    bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato, teño unha pedra
     external-image: false
     picture: assets/images/perfil.jpg
     twitter: fdezfebrero
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+  febrero:
+    name: febrero
+    bio: Full Stack Developer
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/perfil.jpg
+    twitter: fdezfebrero
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -123,7 +123,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://github.com
+  base_url: 
 
 compress_html:
   ignore:
