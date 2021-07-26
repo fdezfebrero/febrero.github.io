@@ -2,7 +2,7 @@
 title: "Docker, php e laravel"
 layout: post
 date: 2021-07-25 22:10
-tag: jekyll
+tag: php laravel docker apache
 image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbuddy.works%2Fguides%2Fcovers%2Flaravel-docker%2Flaravel-docker-share.png&f=1&nofb=1
 headerImage: true
 projects: true
