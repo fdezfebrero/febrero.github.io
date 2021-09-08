@@ -22,7 +22,7 @@ Creamos un proxecto con Laravel usando Docker como entorno de traballo. Usaremos
 
 ## Intalacion de Composer
 
-Para crear un proxecto de laravel necesitaremos [Composer], [Composer] realiza a instalacion de todos os paquetes laraavel coas suas versions compatibles. Teremos que ter instalado php para poder realizar a instalacion de [Composer].
+Para crear un proxecto de laravel necesitaremos **Composer**, **Composer** realiza a instalacion de todos os paquetes laraavel coas suas versions compatibles. Teremos que ter instalado php para poder realizar a instalacion de **Composer**.
 
 {% highlight raw %}
 ### instalacion php
@@ -42,7 +42,7 @@ php -r "unlink('composer-setup.php');"
 
 ## Creamos o proxecto con laravel
 
-Creamos o proxecto con laravel mediante o Composer. Estructura comando: [Composer] seguuido de  [Create-project] seguido do tipo de proxecto [Laravel/Laravel] e por ultimo o nome do noso proxecto.
+Creamos o proxecto con laravel mediante o Composer. Estructura comando: **Composer** seguuido de  **Create-project** seguido do tipo de proxecto **Laravel/Laravel** e por ultimo o nome do noso proxecto.
 
 {% highlight raw %}
 composer create-project laravel/laravel casaruraldb
@@ -236,13 +236,14 @@ npm install
 
 ---
 
----
-Referencias
-[Docker Hub PHO]:[1]
-[Docker Hub MySQL]:[2]
-[Docker Hub Nginx]:[3]
-[Codigo Xules]:[4]
-[Laravel Docs]:[5]
+## Referencias:
+
+Docker Hub PHO:[1]
+Docker Hub MySQL:[2]
+Docker Hub Nginx:[3]
+Codigo Xules:[4]
+Laravel Docs:[5]
+
 ---
 
 
