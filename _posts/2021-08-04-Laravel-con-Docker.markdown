@@ -2,8 +2,8 @@
 title: "Laravel con Docker"
 layout: post
 date: 2021-08-04 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/laravel-docker-cover.png
+headerImage: true
 tag:
 - linux
 - php
