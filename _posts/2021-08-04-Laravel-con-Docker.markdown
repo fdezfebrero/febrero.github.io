@@ -236,14 +236,13 @@ npm install
 
 ---
 
-## Referencias:
-
-Docker Hub PHO:[1]
-Docker Hub MySQL:[2]
-Docker Hub Nginx:[3]
-Codigo Xules:[4]
-Laravel Docs:[5]
-
+---
+Referencias
+[Docker Hub PHO][1]
+[Docker Hub MySQL][2]
+[Docker Hub Nginx][3]
+[Codigo Xules][4]
+[Laravel Docs][5]
 ---
 
 
