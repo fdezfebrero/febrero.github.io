@@ -13,7 +13,9 @@ author: febrero
 externalLink: false
 ---
 
-## Usamos Php e laravel desde un contenedor de docker, imaxen php7.4-apache
+# Proxecto Casa Rural
+
+## Usamos Php e laravel desde un contenedor de docker, imaxen php7.4-nginx
 
 
 [Repositorio co proxecto][1]
@@ -21,4 +23,4 @@ externalLink: false
 #### En progreso...
 
 
-[1]: https://github.com/fdezfebrero/php-docker
+[1]: https://github.com/fdezfebrero/casarural/tree/main/casarural
