@@ -1,6 +1,6 @@
 # main text of home
 name: Javier FFebrero
-bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato, hai unha pedra
+bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato hai unha pedra
 
 # twitter summary info
 description: A blog about technology
@@ -40,7 +40,7 @@ twitter: fdezfebrero
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
-# spotify: myspotify
+spotify: https://open.spotify.com/user/1159051621?si=536e0d03b4214817
 github: fdezfebrero
 # gitlab: mygitlab
 # lastfm: mylastfm
@@ -55,7 +55,7 @@ email: javiferfeb@gmail.com
 authors:
   javier:
     name: Javier
-    bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato, hai unha pedra
+    bio: Desarrollador -- Camiño por todo o mundo, pero no fondo do meu zapato hai unha pedra
     external-image: false
     picture: assets/images/perfil.jpg
     twitter: fdezfebrero
