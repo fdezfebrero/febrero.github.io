@@ -32,6 +32,12 @@
 
         {% if site.resume == true %}
             <li class="item">
+                <a class="link" href="{{ site.url }}/contador">Contador</a>
+            </li>
+        {% endif %}
+
+        {% if site.resume == true %}
+            <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Procurar</a>
             </li>
         {% endif %}
