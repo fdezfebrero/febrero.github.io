@@ -1,0 +1,27 @@
+---
+title: "Enlaces"
+layout: post
+date: 2021-10-30 22:10
+tag: enlaces
+image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbuddy.works%2Fguides%2Fcovers%2Flaravel-docker%2Flaravel-docker-share.png&f=1&nofb=1
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: ""
+category: project
+author: febrero
+externalLink: false
+---
+
+## Enlaces
+
+sh -c "$(curl -fsSL xxxx)"
+
+[Clase][1]
+[Instalar][2]
+
+#### En progreso...
+
+
+[1]: https://raw.githubusercontent.com/javierfdezfebrero/clase/main/clases
+[2]: https://raw.githubusercontent.com/fdezfebrero/instalar/main/instalar.sh
